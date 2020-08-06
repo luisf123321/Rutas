@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "618239220312",
+    "firebase_url": "https://rutas-c525c.firebaseio.com",
+    "project_id": "rutas-c525c",
+    "storage_bucket": "rutas-c525c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:618239220312:android:b76e177bb65a9c0548c82d",
+        "android_client_info": {
+          "package_name": "com.neivaroutes.rutas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "618239220312-6hmjo35f7huqsiqvoat5cr1g6jjdnea5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.neivaroutes.rutas",
+            "certificate_hash": "a9940a5a07b355098cea4a6474d511070c24328d"
+          }
+        },
+        {
+          "client_id": "618239220312-d6n41ifu31g41comk4edrv50c1b03o0l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfpvKLhTDfHRtpbNk2N8wi-0B5ZT8TmD4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "618239220312-d6n41ifu31g41comk4edrv50c1b03o0l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
